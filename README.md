@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dang Minh Trung
-- 👀 I’m interested in Mathematics and Astronomy. Actually I have been an Olympiad Student for a few years
-- 🌱 I’m currently interested in learning about Data Science and Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Trung Dang
+- 👀 I’m interested in Computer Science, Mathematics and Astronomy
+- 🌱 I’m currently interested in learning about Full-stack development, Cryptography
+- 💞️ I’m looking to collaborate on Fin-tech projects
 - 📫 How to reach me: my github (@dm__trung14) or my email (trungdangminh14012004@gmail.com)
 
 <!---
