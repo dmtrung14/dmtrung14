@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trung Dang
 - 👀 I’m interested in Computer Science :computer: , Mathematics 📚 , and Astronomy ✨
-- 🌱 I’m currently interested in learning about Full-stack development and Cryptography
+- 🌱 I’m currently interested in learning about Full-stack Development, Machine Learning, Cryptography & CyberSecurity, Quantitative Trading, and Quantum Information
 - 💞️ I’m looking to collaborate on Fin-tech projects, and find a Quant Trading learning partner
 - 📫 How to reach me: my github (@dm__trung14) or my email (trungdangminh14012004@gmail.com)
 
