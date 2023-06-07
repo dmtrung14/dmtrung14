@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Trung Dang
-- 👀 I’m interested in Computer Science :computer: , Mathematics 📚 , and Quantum Information Science ✨
-- 🌱 I’m currently interested in learning about Full-stack Development, Machine Learning and its application in Quantum Information
-- 💞️ I’m also fascinated about Crypto and Quantitative Trading, and I would love to find a learning partner
-- 📫 How to reach me: my github (@dm__trung14) or my email (trungdangminh14012004@gmail.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!---
 dmtrung14/dmtrung14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
