@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Trung Dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtrung14&show_icons=true&theme=merko)
 
 <!---
 dmtrung14/dmtrung14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
