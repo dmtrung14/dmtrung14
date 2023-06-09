@@ -31,8 +31,8 @@ print("Hello World")! My name is Trung Dang, I am a Computer Science and Mathema
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-   <a href="https://github.com/algebra2boy">
-     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/dmtrung14">
+     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algebra2boy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmtrung14&layout=compact&langs_count=8&theme=algolia"/>
    </a>
 </p>
