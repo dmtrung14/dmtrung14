@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 print("Hello World")! My name is Trung Dang, I am a Computer Science and Mathematics Sophomore at the University of Massachusetts Amherst. I spent the first 18 years of my life as a full-stack Math Olympiad grinder before breaking into full-stack software development. My current academic focuses are on Machine Learning and Quantum Information Science, though as you have come as far as my GitHub page, I hope you also enjoy my various web apps and plugins as well!
 
