@@ -29,7 +29,7 @@ print("Hello World")! My name is Trung Dang, I am a Computer Science and Mathema
 <p align="center">
    <a href="https://github.com/dmtrung14">
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmtrung14&layout=compact&langs_count=8&theme=algolia"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtrung14&layout=compact&theme=algolia"/>
      
    </a>
 </p>
