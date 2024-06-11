@@ -1,5 +1,5 @@
 # 💫 About Me:
-print("Hello World")! My name is Trung Dang, I am a Computer Science and Mathematics Sophomore at the University of Massachusetts Amherst. I spent the first 18 years of my life as a full-stack Math Olympiad grinder before breaking into full-stack software development. My current academic focuses are on Machine Learning and Quantum Information Science, though as you have come as far as my GitHub page, I hope you also enjoy my various web apps and plugins as well!   
+Welcome to my GitHub! My name is Trung Dang, I am a Computer Science and Mathematics Junior at the University of Massachusetts Amherst. I am working on Reinforcement Learning and Robotics at [DARoS](https://www.umass.edu/robotics/daros). For projects and hacks related to my coursework, please visit [dmtrung14-courses](https://github.com/dmtrung14-courses).
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 
