@@ -1,6 +1,10 @@
 # 💫 About Me:
 Welcome to my GitHub! My name is Trung Dang, I am a Computer Science, Mathematics, and Applied Physics Junior at the University of Massachusetts Amherst. I am working on Reinforcement Learning and Robotics at [DARoS](https://www.umass.edu/robotics/daros). For projects and hacks related to my coursework, please visit [dmtrung14-courses](https://github.com/dmtrung14-courses).
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmtrung14&label=Profile%20views&color=008080&style=flat" alt="dmtrung14" />
+</p>
+
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 
 ## 🛠 &nbsp;Tech Gear
