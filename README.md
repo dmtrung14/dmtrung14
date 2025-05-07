@@ -1,11 +1,16 @@
-# 💫 About Me:
-Welcome to my GitHub! My name is Trung Dang, I am a Computer Science, Mathematics, and Applied Physics Junior at the University of Massachusetts Amherst. I am working on Reinforcement Learning and Robotics at [DARoS](https://www.umass.edu/robotics/daros). For projects and hacks related to my coursework, please visit [dmtrung14-courses](https://github.com/dmtrung14-courses).
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dmtrung14&label=Profile%20views&color=008080&style=flat" alt="dmtrung14" />
 </p>
 
+# 💫 About
+Welcome to my GitHub! I am a Production Engineer Intern at **Meta**. I graduated from the University of Massachusetts Amherst in May 2025 with a BSc. in Computer Science and Mathematics. Previously, I worked on Reinforcement Learning for Locomotion controls at [DARoS](https://www.umass.edu/robotics/daros).
+
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+
+## 🤳🏽 Online
+- For coursework related projects: [github.com/dmtrung14-courses](https://github.com/dmtrung14-courses)
+- For miscellaneous and just-for-fun projects: [github.com/dmtrung14-misc](https://github.com/dmtrung14-misc)
+- For technical blogs and write-ups: [dmtrung.com/blogs](https://dmtrung.com/blogs)
 
 ## 🛠 &nbsp;Tech Gear
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
