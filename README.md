@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=dmtrung14&label=Profile%20views&color=008080&style=flat" alt="dmtrung14" />
 </p>
 
-# 💫 About
-Welcome to my GitHub! I am a Production Engineer Intern at **Meta**. I graduated from the University of Massachusetts Amherst in May 2025 with a BSc. in Computer Science and Mathematics. Previously, I worked on Reinforcement Learning for Locomotion controls at [DARoS](https://www.umass.edu/robotics/daros).
+# ✌️ Hi
+I am a Production Engineer Intern at **Meta**. I graduated from the University of Massachusetts Amherst in May 2025 with a BSc. in Computer Science and Mathematics. Previously, I worked on Reinforcement Learning for Locomotion controls at [DARoS](https://www.umass.edu/robotics/daros).
 
 <img height="150em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmtrung14&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 
