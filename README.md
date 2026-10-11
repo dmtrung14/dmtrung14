@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dmtrung14&label=Profile%20views&color=008080&style=flat" alt="dmtrung14" />
+  <img src="https://komarev.com/ghpvc/?username=dmtrung14&amp;label=Profile%20views&amp;color=008080&amp;style=flat" alt="Profile views for dmtrung14" />
 </p>
+
 
 # ✌️ Hi
 I am a Quantitative Developer at **Citadel**. Before that, I had a short stint as a Production Engineer at **Meta**. I graduated from the University of Massachusetts Amherst in May 2025 with a BSc in Computer Science and Mathematics. Even before that, I worked on Reinforcement Learning for locomotion control at [DARoS](https://www.umass.edu/robotics/daros).
